@@ -128,15 +128,6 @@ Me gusta explorar nuevas tecnologías, desarrollar proyectos prácticos y mejora
 ## 🚀 Proyectos destacados
 
 <div align="center">
-
-<a href="https://github.com/TU_USUARIO/REPOSITORIO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true" alt="Proyecto destacado 1"/>
-</a>
-
-<a href="https://github.com/TU_USUARIO/REPOSITORIO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="Proyecto destacado 2"/>
-</a>
-
 </div>
 
 ### 💻 [Nombre del proyecto]
