@@ -47,7 +47,7 @@ Me gusta explorar nuevas tecnologías, desarrollar proyectos prácticos y mejora
 ### 💻 Lenguajes de programación
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java, free fire,cpp&theme=dark" alt="Python, JavaScript, Java , C++ y Free Fire"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp&theme=dark" alt="Python, JavaScript, Java y C++"/>
 </div>
 
 ### 🌐 Desarrollo web
