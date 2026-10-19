@@ -1,150 +1,203 @@
-# Johan Yesid Urbina Muñoz
 
-[Correo electrónico] | [LinkedIn](https://linkedin.com/in/tu-perfil) | [GitHub](https://github.com/tu-usuario) | Medellín, Antioquia, Colombia
+<!-- ===================== PORTADA ===================== -->
 
----
+<div align="center">
 
-## Perfil profesional
+# 👋 Hola, soy Johan Urbina
 
-Desarrollador de software en formación, interesado en la programación, la creación de soluciones digitales y el desarrollo de proyectos tecnológicos. Cuenta con interés en fortalecer sus competencias técnicas, aplicar el pensamiento lógico y creativo, y trabajar colaborativamente en la construcción de soluciones orientadas a las necesidades de los usuarios. Busca oportunidades para adquirir experiencia práctica, aportar a proyectos de desarrollo y crecer profesionalmente en el sector tecnológico.
+### 💻 Desarrollador de Software en Formación
 
----
+**Tecnología · Desarrollo · Creatividad · Innovación**
 
-## Experiencia laboral
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Johan%20Urbina&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=Construyendo%20soluciones%20con%20c%C3%B3digo&descSize=16&descAlignY=55" width="100%" alt="Banner tecnológico de Johan Urbina"/>
 
-### Desarrollador de software en formación | [Empresa o institución]
-*[Mes Año] - [Presente o Mes Año]*
+<p>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Enfoque en desarrollo de software"/>
+  <img src="https://img.shields.io/badge/Always-Learning-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Aprendizaje continuo"/>
+</p>
 
-- Participación en el desarrollo de [X] proyectos académicos o personales, aplicando conocimientos de programación y herramientas digitales para construir soluciones funcionales.
-- Análisis de requerimientos y planteamiento de alternativas para resolver problemas técnicos, procurando mejorar la organización y funcionalidad de los proyectos.
-- Utilización de [lenguajes, frameworks y herramientas realmente utilizados] para implementar funcionalidades, realizar pruebas y corregir errores.
-- Colaboración con [X] integrantes en la planificación de tareas, el intercambio de ideas y el cumplimiento de objetivos compartidos.
-- Documentación de avances y organización del código para facilitar el mantenimiento y la comprensión de los proyectos.
+</div>
 
 ---
 
-## Educación
+<!-- ===================== SOBRE MÍ ===================== -->
 
-### [Título académico o programa de formación] | [Institución educativa]
-*[Año de inicio] - [Año de finalización o Presente]*
+## 🧑‍💻 Sobre mí
 
-Formación en [programa o área de estudio], con interés en programación, desarrollo de software, herramientas digitales y resolución de problemas. Desarrollo de conocimientos mediante actividades académicas, ejercicios prácticos y proyectos orientados a fortalecer las competencias técnicas y profesionales.
+<img align="right" alt="Animación de programación" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+Soy Johan Yesid Urbina Muñoz, interesado en el desarrollo de software, la programación y la creación de soluciones digitales.
+
+Me gusta explorar nuevas tecnologías, desarrollar proyectos prácticos y mejorar mis habilidades mediante el aprendizaje continuo.
+
+- 🚀 Interesado en el desarrollo de software.
+- 💡 Enfocado en aprender y resolver problemas.
+- 🧠 Interesado en el pensamiento lógico y la creatividad.
+- 🤝 Abierto al trabajo colaborativo y al intercambio de conocimientos.
+- 🎯 Mi objetivo es crecer profesionalmente en el sector tecnológico.
+
+<br clear="right"/>
 
 ---
 
-## Habilidades técnicas
+<!-- ===================== HABILIDADES ===================== -->
 
-| Categoría | Tecnologías y herramientas |
+## 🛠️ Tecnologías y herramientas
+
+### 💻 Lenguajes de programación
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp&theme=dark" alt="Python, JavaScript, Java y C++"/>
+</div>
+
+### 🌐 Desarrollo web
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="HTML, CSS, React, Node.js y Express"/>
+</div>
+
+### 🗄️ Bases de datos
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL y MongoDB"/>
+</div>
+
+### ⚙️ Herramientas de desarrollo
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Git, GitHub, Visual Studio Code, Linux y Docker"/>
+</div>
+
+> Personaliza esta sección: elimina los iconos de tecnologías que todavía no hayas utilizado.
+
+---
+
+<!-- ===================== HABILIDADES BLANDAS ===================== -->
+
+## 🤝 Habilidades sociales y blandas
+
+<div align="center">
+
+| 💡 Habilidad | 🎯 Aplicación |
 |---|---|
-| Lenguajes de programación | 🐍 Python · 🟨 JavaScript · ☕ Java · ⚙️ C++ |
-| Desarrollo frontend | 🌐 HTML5 · 🎨 CSS3 · ⚛️ React |
-| Desarrollo backend | 🟢 Node.js · 🚂 Express.js · 🔗 APIs REST |
-| Bases de datos | 🐬 MySQL · 🐘 PostgreSQL · 🍃 MongoDB |
-| Control de versiones | 🐙 Git · 🐱 GitHub · 🌿 Branches · 🔀 Pull Requests |
-| Entornos de desarrollo | 💻 Visual Studio Code · ⌨️ Terminal · 🐞 Herramientas de depuración |
-| Diseño y contenido digital | 🎨 Diseño digital · 🖼️ Creación de cómics y tiras · ✏️ Edición gráfica |
-| Metodologías de trabajo | 🔄 Scrum · 📋 Kanban · 📝 Documentación técnica |
-| Calidad del software | 🧪 Pruebas de software · 🔍 Revisión de código · 🛠️ Depuración y corrección de errores |
+| 🗣️ Comunicación | Expresar ideas con claridad. |
+| 🤝 Trabajo en equipo | Colaborar para alcanzar objetivos comunes. |
+| 🧩 Resolución de problemas | Analizar situaciones y buscar soluciones. |
+| 🧠 Pensamiento crítico | Evaluar alternativas antes de decidir. |
+| 🎨 Creatividad | Proponer ideas y enfoques diferentes. |
+| 📚 Aprendizaje autónomo | Adquirir conocimientos de forma continua. |
+| 🔄 Adaptabilidad | Aprender a trabajar con nuevas herramientas. |
+| 📅 Organización | Planificar tareas y establecer prioridades. |
 
-*Importante: conserva únicamente las tecnologías y herramientas que realmente conozcas o hayas utilizado. Los niveles de dominio se pueden añadir cuando estén definidos.*
-
----
-
-## Habilidades sociales y blandas
-
-| Habilidad | Aplicación profesional |
-|---|---|
-| 🗣️ Comunicación efectiva | Expresar ideas con claridad, compartir información relevante y comunicar avances o dificultades. |
-| 🤝 Trabajo en equipo | Colaborar con otras personas, distribuir responsabilidades y contribuir al cumplimiento de objetivos comunes. |
-| 🧩 Resolución de problemas | Analizar situaciones, identificar posibles causas y proponer soluciones prácticas. |
-| 🧠 Pensamiento crítico | Evaluar alternativas y tomar decisiones considerando diferentes perspectivas. |
-| 💡 Creatividad e innovación | Proponer ideas y enfoques alternativos para desarrollar soluciones digitales. |
-| 🔄 Adaptabilidad | Ajustarse a nuevos requerimientos, herramientas y dinámicas de trabajo. |
-| 📚 Aprendizaje autónomo | Investigar, practicar y adquirir nuevos conocimientos de manera independiente. |
-| 📅 Organización y planificación | Establecer prioridades, estructurar actividades y organizar tareas según sus objetivos. |
-| ✅ Responsabilidad y compromiso | Cumplir las tareas asignadas y asumir las responsabilidades correspondientes. |
-| 🔎 Atención al detalle | Revisar el trabajo realizado e identificar inconsistencias o aspectos que puedan mejorarse. |
-| ⏱️ Gestión del tiempo | Distribuir el tiempo disponible y procurar cumplir con los plazos establecidos. |
-| 👂 Escucha activa | Comprender las opiniones, necesidades y sugerencias de compañeros y colaboradores. |
-| 🛡️ Ética profesional | Actuar con honestidad, respeto y responsabilidad en el desarrollo de actividades. |
-| 🌱 Apertura a la retroalimentación | Recibir observaciones, identificar oportunidades de mejora y aplicar correcciones. |
+</div>
 
 ---
 
-## Idiomas
+<!-- ===================== ESTADÍSTICAS ===================== -->
 
-- Español: [Nativo o nivel C2, según corresponda].
-- Inglés: [Nivel A1, A2, B1, B2, C1 o C2, según el Marco Común Europeo de Referencia para las Lenguas].
+## 📊 Estadísticas de GitHub
 
----
+<div align="center">
 
-## Proyectos destacados
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub"/>
 
-### [Nombre del proyecto principal]
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados"/>
 
-Desarrollo de una solución orientada a [problema o necesidad que resuelve]. El proyecto integra [tecnologías utilizadas] para implementar funcionalidades como [características principales]. La participación comprende [responsabilidades reales], con énfasis en la resolución de problemas, la organización del código y la mejora continua.
+<br/>
 
-- **Tecnologías:** [Tecnologías utilizadas].
-- **Rol:** [Responsabilidad desempeñada].
-- **Resultado:** [Resultado verificable o indicador de impacto].
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
 
-[Ver proyecto](https://enlace.com) | [Código](https://github.com/tu-usuario/repositorio)
-
-### [Nombre del proyecto de desarrollo web]
-
-Creación de una aplicación web para [objetivo del proyecto], con funcionalidades orientadas a [necesidad del usuario]. Se aplican conocimientos de desarrollo frontend, backend o gestión de datos, según las tecnologías efectivamente implementadas.
-
-- **Tecnologías:** [HTML, CSS, JavaScript u otras realmente utilizadas].
-- **Rol:** [Responsabilidad desempeñada].
-- **Resultado:** [Funcionalidades implementadas, usuarios alcanzados u otro dato comprobable].
-
-[Ver proyecto](https://enlace.com) | [Código](https://github.com/tu-usuario/repositorio)
-
-### [Nombre del proyecto creativo o de cómics digitales]
-
-Proyecto centrado en la creación de cómics, tiras ilustradas o contenido digital mediante [herramientas utilizadas]. Incluye la planificación de ideas, la elaboración de piezas y la organización de recursos visuales para comunicar conceptos de manera creativa.
-
-- **Herramientas:** [Programas de diseño o ilustración].
-- **Producción:** [X] cómics o tiras realizadas.
-- **Rol:** [Autoría, diseño, edición u otras responsabilidades reales].
-
-[Ver proyecto](https://enlace.com) | [Código o portafolio](https://github.com/tu-usuario)
+</div>
 
 ---
 
-## Estadísticas de GitHub y actividad técnica
+<!-- ===================== ACTIVIDAD ===================== -->
 
-| Indicador | Resultado |
-|---|---:|
-| 📦 Repositorios públicos | [X] |
-| 🚀 Proyectos desarrollados | [X] |
-| 🤝 Participaciones en proyectos | [X] |
-| 🔧 Contribuciones realizadas | [X] |
-| 🌿 Ramas (*branches*) creadas | [X] |
-| 🎨 Cómics o tiras realizadas | [X] |
-| ⭐ Estrellas del proyecto más popular | [X] |
-| 📥 Descargas del proyecto más popular | [X o No disponible] |
+## 📈 Mi actividad de desarrollo
 
-### Proyecto con mayor impacto
+<div align="center">
 
-**[Nombre del proyecto más popular]**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="Gráfico de actividad en GitHub"/>
 
-Descripción: [Explicación breve del propósito, las funcionalidades y el problema que resuelve].
-
-- **Tecnologías:** [Tecnologías utilizadas].
-- **Participación personal:** [Contribuciones y responsabilidades verificables].
-- **Popularidad:** [X] estrellas y [X] descargas, si existen estos datos.
-- **Repositorio:** [Ver código en GitHub](https://github.com/tu-usuario/repositorio)
-
-*Las estadísticas deben completarse con datos reales del perfil y de los repositorios. El número de contribuciones, las ramas creadas y las participaciones en proyectos representan indicadores diferentes y conviene contabilizarlos por separado.*
+</div>
 
 ---
 
-## Información complementaria
+<!-- ===================== PROYECTOS ===================== -->
 
-- **Ubicación:** Medellín, Antioquia, Colombia.
-- **Portafolio personal:** [Enlace al portafolio].
-- **Disponibilidad:** [Inmediata o fecha de disponibilidad].
-- **Modalidad de trabajo:** [Presencial, híbrida o remota].
-- **Áreas de interés:** 💻 Desarrollo de software · 🌐 Aplicaciones web · 🧩 Resolución de problemas · 🎨 Creación de productos digitales · 🚀 Innovación tecnológica.
-- **Objetivo profesional:** Incorporarse a un entorno de trabajo en el que pueda aplicar sus conocimientos, participar en proyectos reales, aprender de otros profesionales y desarrollar progresivamente sus competencias en el sector tecnológico.
+## 🚀 Proyectos destacados
+
+<div align="center">
+
+<a href="https://github.com/TU_USUARIO/REPOSITORIO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true" alt="Proyecto destacado 1"/>
+</a>
+
+<a href="https://github.com/TU_USUARIO/REPOSITORIO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="Proyecto destacado 2"/>
+</a>
+
+</div>
+
+### 💻 [Nombre del proyecto]
+
+Descripción breve del proyecto, su objetivo y el problema que busca resolver.
+
+- 🛠️ **Tecnologías:** [Tecnologías utilizadas].
+- 🎯 **Objetivo:** [Propósito del proyecto].
+- 👨‍💻 **Participación:** [Tu contribución].
+
+🔗 [Explorar repositorio](https://github.com/TU_USUARIO/REPOSITORIO_1)
+
+---
+
+<!-- ===================== OBJETIVOS ===================== -->
+
+## 🌱 Actualmente aprendiendo
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Programming-Aprendizaje%20continuo-2563EB?style=flat-square" alt="Programación"/>
+<img src="https://img.shields.io/badge/Git-Control%20de%20versiones-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-L%C3%B3gica-06B6D4?style=flat-square" alt="Resolución de problemas"/>
+
+</div>
+
+- 📚 Fortalecer mis fundamentos de programación.
+- 🔧 Mejorar mis prácticas de control de versiones.
+- 🚀 Construir proyectos que demuestren mis habilidades.
+- 🌐 Explorar herramientas para el desarrollo de aplicaciones.
+
+---
+
+<!-- ===================== CONTACTO ===================== -->
+
+## 📫 Conecta conmigo
+
+<div align="center">
+
+<a href="https://github.com/TU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/TU_PERFIL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:TU_CORREO">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Gracias por visitar mi perfil
+
+*Aprendiendo, creando y mejorando una línea de código a la vez.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Banner de cierre"/>
+
+</div>
