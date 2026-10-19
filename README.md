@@ -53,19 +53,19 @@ Me gusta explorar nuevas tecnologías, desarrollar proyectos prácticos y mejora
 ### 🌐 Desarrollo web
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="HTML, CSS, React, Node.js y Express"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="HTML, CSS, React, Node.js"/>
 </div>
 
 ### 🗄️ Bases de datos
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL y MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
 </div>
 
 ### ⚙️ Herramientas de desarrollo
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Git, GitHub, Visual Studio Code, Linux y Docker"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub y Visual Studio Code"/>
 </div>
 
 > Personaliza esta sección: elimina los iconos de tecnologías que todavía no hayas utilizado.
