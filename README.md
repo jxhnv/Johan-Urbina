@@ -98,15 +98,6 @@ Me gusta explorar nuevas tecnologías, desarrollar proyectos prácticos y mejora
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
-
 </div>
 
 ---
