@@ -47,19 +47,13 @@ Me gusta explorar nuevas tecnologías, desarrollar proyectos prácticos y mejora
 ### 💻 Lenguajes de programación
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp&theme=dark" alt="Python, JavaScript, Java y C++"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,mysql&theme=dark" alt="Python, JavaScript, Java, C++ y MySQL"/>
 </div>
 
 ### 🌐 Desarrollo web
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="HTML, CSS, React, Node.js"/>
-</div>
-
-### 🗄️ Bases de datos
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
 </div>
 
 ### ⚙️ Herramientas de desarrollo
